@@ -1,0 +1,44 @@
+body{
+    background-color:burlywood;
+}
+h1{
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+h2{
+    font-size: 30px;
+}
+.established{
+    font-style: oblique;
+}
+h1,h2,p{
+    text-align: center;
+}
+.menu{
+    width: 500px;
+margin-left: 50px;
+margin-right: auto;
+padding: 20px;
+max-width: 500px;
+font-size: 30px;
+font-style: italic;
+background-color: burlywood;
+}
+body{
+    background-image:url(https://img.freepik.com/free-photo/cup-coffee-with-leaf-design-it_1340-23640.jpg?w=2000)
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.item p{
+    display:inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+.about{
+    
+}
